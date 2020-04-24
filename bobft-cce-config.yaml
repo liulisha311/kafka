@@ -1,0 +1,3 @@
+show: true
+name: Kafka
+description: Kafka是一个分布式、支持分区的、多副本的， 基于zookeeper协调的分布式消息系统。 
