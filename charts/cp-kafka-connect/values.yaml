@@ -2,6 +2,10 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
+global:
+  enterprise: false
+  repository: 172.16.5.171
+  project: kafka
 
 replicaCount: 1
 
